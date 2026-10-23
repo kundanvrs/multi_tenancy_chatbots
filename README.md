@@ -81,10 +81,10 @@ psql -U postgres
 CREATE DATABASE ur_platform;
 
 -- Create application user
-CREATE USER rag_user WITH PASSWORD 'SecurePassword123';
+CREATE USER rag_user WITH PASSWORD 'Password123';
 
 -- Grant privileges
-GRANT ALL PRIVILEGES ON DATABASE redmoon_platform TO rag_user;
+GRANT ALL PRIVILEGES ON DATABASE ur_platform TO rag_user;
 
 -- Connect to the database
 \c ur_platform
