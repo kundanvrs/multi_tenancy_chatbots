@@ -389,3 +389,10 @@ http://127.0.0.1:8000/docs
 # 📌 Project Summary
 
 The  Platform provides a scalable multi-domain Retrieval-Augmented Generation (RAG) architecture that enables organizations to rapidly onboard new business domains while maintaining complete tenant isolation, semantic retrieval capabilities, and AI-powered conversational experiences.
+
+<img width="479" height="606" alt="Screenshot 2026-10-24 at 1 30 58 AM" src="https://github.com/user-attachments/assets/f8acfd72-f5a4-4d26-b6fc-0ccb680ee013" />
+
+<img width="479" height="606" alt="Screenshot 2026-10-24 at 1 30 03 AM" src="https://github.com/user-attachments/assets/1f058a15-9627-48f5-965f-edfed1a36bc6" />
+
+<img width="481" height="604" alt="Screenshot 2026-10-24 at 1 26 59 AM" src="https://github.com/user-attachments/assets/bf48dbb9-bf21-4b9c-a519-b7aa93a0db08" />
+
