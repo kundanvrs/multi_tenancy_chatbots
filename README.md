@@ -78,7 +78,7 @@ The backend requires PostgreSQL with the `pgvector` extension enabled.
 psql -U postgres
 
 -- Create application database
-CREATE DATABASE redmoon_platform;
+CREATE DATABASE ur_platform;
 
 -- Create application user
 CREATE USER rag_user WITH PASSWORD 'SecurePassword123';
@@ -87,7 +87,7 @@ CREATE USER rag_user WITH PASSWORD 'SecurePassword123';
 GRANT ALL PRIVILEGES ON DATABASE redmoon_platform TO rag_user;
 
 -- Connect to the database
-\c redmoon_platform
+\c ur_platform
 
 -- Enable pgvector
 CREATE EXTENSION IF NOT EXISTS vector;
